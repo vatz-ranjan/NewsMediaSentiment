@@ -20,7 +20,6 @@ def cnn_extraction():
     master_dictionary = 'Loughran-McDonald_MasterDictionary_1993-2021.csv'
     SentimentAnalyzer.define_master_dictionary(master_dictionary)
 
-    # countries = ['americas', 'africa']
     countries = ['americas', 'africa', 'asia', 'china', 'india', 'australia', 'europe', 'middle-east', 'united-kingdom']
     renameCountries = {'americas': 'USA', 'africa': 'AFRICA', 'asia': 'ASIA', 'australia': 'AUSTRALIA', 'china': 'CHINA', 'europe': 'EUROPE', 'india': 'INDIA', 'middle-east': 'MIDDLEEAST', 'united-kingdom': 'UK'}
     
