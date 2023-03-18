@@ -20,15 +20,6 @@ class LinkScraper:
         url = self.__baseUrl + self.__countryName
         driver = webdriver.Chrome(self.__driverPath)
         driver.get(url)
-        try:
-            WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CLASS_NAME, 'ot-sdk-container')))
-            cookiesSection = driver.find_element(by=By.CLASS_NAME, value='ot-sdk-container')
-            acceptCookies = cookiesSection.find_element(by=By.ID, value='onetrust-accept-btn-handler')
-            acceptCookies.click()
-        except Exception as e:
-            print(e)
-        sleep(5)
-        # driver.find_element(by=By.CLASS_NAME, value='show-more-button big-margin')
         soup = BeautifulSoup(driver.page_source, features='html.parser')
         firstMainMaterial = soup.find('main', attrs={'id': 'featured-news-container'})
         for element in firstMainMaterial.findAll('li', attrs={'class': 'featured-articles-list__item'}):
