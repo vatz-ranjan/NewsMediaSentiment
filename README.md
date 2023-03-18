@@ -1,4 +1,4 @@
-# NewsMediaSentiment
+# News Media Sentiment
 
 This project involves NLP concepts to drive sentimental opinion and scores of different News Media Sources such as CNN, Al Jazeera  for analyzing their opinions for different countries and continents at world level.
 
