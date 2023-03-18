@@ -13,14 +13,9 @@ def generate_excel(writer, sheetNameToDataset):
             column_width = int(max(dataset[column].astype(str).map(len).max(), len(column)))
             col_idx = dataset.columns.get_loc(column)
             writer.sheets[sheetName].set_column(col_idx, col_idx, column_width)
-
-
-def generate_ad_excel(writer, nameToDataset):
-    pass
-
+            
 
 if __name__ == '__main__':
-
     filterwarnings('ignore')
 
     try:
@@ -38,7 +33,6 @@ if __name__ == '__main__':
     excelFile = 'NewsMediaSentiment.xlsx'
     writer = ExcelWriter(excelFile, engine='xlsxwriter')
     generate_excel(writer=writer, sheetNameToDataset=nameToDataset)
-    # generate_ad_excel(writer=writer, nameToDataset=nameToDataset)
     writer.save()
     '''
     # If Newly Installed NLTK Library
