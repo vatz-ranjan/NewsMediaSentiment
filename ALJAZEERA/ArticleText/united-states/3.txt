@@ -1,0 +1,39 @@
+The collapse of Silicon Valley Bank (SVB) has sent shockwaves through financial and tech circles.
+On Friday, United States regulators seized the assets of the Santa Clara, California-based bank after depositors began withdrawing funds en masse amid fears over the lender’s financial health.
+Since then, financial regulators around the world have raced to contain the fallout of SVB’s collapse, the biggest bank failure in the US since 2008, and shore up confidence in the global financial system.
+As SVB’s name suggests, the bank’s business focused heavily on US technology startups. During the COVID-19 pandemic, the lender saw a surge in deposits as tech companies profited from providing entertainment and delivery services to people confined to their homes.
+SVB invested much of this cash in US government bonds — traditionally one of the safest types of investment.
+SVB’s troubles began when the US Federal Reserve started raising interest rates last year in response to soaring inflation, causing the value of those bonds to fall.
+As economic conditions for the tech sector became more straitened following the pandemic boom, many of SVB’s customers began to draw on their funds to keep above water. Short on cash, SVB was forced to sell its bonds at big losses, prompting concerns about its financial health.
+Within 48 hours, spooked depositors had withdrawn enough funds to cause the bank’s collapse.
+“SVB collapsed because of a stupid rookie mistake with their interest-rate-risk management: They invested short-term deposits into long-term bonds. When interest rates rose, the value of the bonds fell, wiping out the equity of the bank,” James Angel, an expert on regulation of global financial markets at Georgetown University, told Al Jazeera.
+“This is the same phenomenon that wiped out the US Savings and Loan industry in the 1980s. Some people never learn.”
+Campbell R Harvey, a professor at Duke University’s Fuqua School of Business, said that SVB’s woes were a lesson in the need for banks to diversify their assets.
+“It does seem that it catered to a particular clientele, and we all know that tech has taken a hit — and if you’re undiversified, you’ll take the hit also,” Harvey told Al Jazeera.
+“Your loan book needs to be diversified,” Harvey added. “It’s not obvious that this bank actually did this.”
+Two days after the collapse of SVB, US regulators seized the assets of Signature Bank, a New York-based lender known for its business with the cryptocurrency sector, marking the third-largest bank failure in US history.
+In an effort to stem the fallout, US regulators announced on Sunday they would guarantee all deposits at both lenders.
+The Federal Reserve also unveiled a lending program, the Bank Term Funding Program (BTFP), that aims to bolster confidence in the financial system by giving banks the option to borrow directly from the Fed to avoid having to rely on loss-making bond sales.
+US President Joe Biden has sought to assure the public the situation is contained, saying, “Americans can have confidence that the banking system is safe.”
+Nonetheless, bank shares, including those of the US “big four” — JPMorgan Chase, Bank of America, Wells Fargo, and Citibank — have dipped sharply amid fears of contagion across the financial sector.
+First Republic Bank, a mid-tier bank based in San Francisco, California, saw its stock price plunge as much as 60 percent.
+Bank shares in Europe and Asia have also taken a significant hit.
+In the United Kingdom, financial authorities announced they had facilitated the sale of SVB’s local unit to HSBC, Europe’s biggest bank, in order to safeguard 6.7 billion pounds ($8.1bn) in deposits.
+Canadian regulators announced they had temporarily taken control of the country’s SVB unit, while Germany’s Federal Financial Supervisory Authority said it had provisionally closed the local branch of the lender.
+SVB was the 16th-largest bank in the US and has been described as a mid-tier lender rather than one of the major players.
+“It is an unusual bank in that it is not one of the big banks, though it is substantial,” Harvey said.
+As of December, the lender had $209.0bn in assets and $175.4 bn in total deposits, according to the Federal Deposit Insurance Corporation.
+By comparison, JPMorgan Chase, the biggest bank in the US, last year had assets worth $3.67 trillion.
+SVB, however, did have an outsized influence in the tech ecosystem. The lender was well-connected among the Silicon Valley elite and had a reputation for backing startups that larger institutions might consider too risky to lend to.
+SVB’s failure reportedly left some tech chief executives scrambling to change banks and exploring options for paying staff amid fears they would not be able to access their funds.
+Although SVB’s customers ultimately had their deposits guaranteed, the full effect of the lender’s implosion on the startup scene may not be apparent for some time.
+While the fallout of SVB’s collapse is still playing out, economists broadly agree that its failure is markedly different from the implosion of financial institutions, such as Bear Stearns and Lehman Brothers, that precipitated the 2007-2008 global financial crisis.
+Unlike institutions like Lehman Brothers, SVB’s business was concentrated in one sector and had relatively little dealings with other banks.
+“The SVB situation definitely has people worried but I don’t think it’s likely to turn into a Lehman type of situation, especially given how aggressively the Fed has intervened, including by promising to protect even uninsured deposits,” David Skeel, professor of corporate law at the University of Pennsylvania Law School, told Al Jazeera.
+“I think any direct fallout is likely to become clear pretty quickly, although it’s certainly possible that there are other banks that are in a similar predicament due to the rise in interest rates.”
+Financial regulation has also been tightened up significantly since the 2007-2008 crisis.
+“Fortunately, the increased capital requirements imposed after the 2008 crisis seem to be paying off,” Angel said.
+“Banks are now required to have much more capital than before, making them much less risky. Even the banks that have made stupid mistakes mostly lose their own money and not that of depositors.”
+William T Chittenden, associate professor of finance and economics at Texas State University, said he believes the contagion from SVB will be limited.
+“With the BTFP, banks will be able to borrow against those securities at par value, allowing banks to avoid selling them at a loss. This should give banks the liquidity they need to meet any unexpected demand for cash from their depositors,” Chittenden told Al Jazeera.
+“We will know if this is working or if there is wide-spread fallout from SVB’s failure in the next few days,” he added. “The vast majority of banks in the US are financially sound and with the new BTFP, depositors should feel at ease.”
