@@ -20,7 +20,6 @@ def aljazeera_extraction():
     master_dictionary = 'Loughran-McDonald_MasterDictionary_1993-2021.csv'
     SentimentAnalyzer.define_master_dictionary(master_dictionary)
 
-    # countries = ['united-states', 'canada']
     countries = ['united-states', 'canada', 'israel', 'qatar', 'turkey', 'saudi-arabia', 'united-arab-emirates', 'iraq', 'iran', 'china', 'india', 'pakistan', 'japan', 'taiwan', 'north-korea', 'south-korea', 'australia', 'russia', 'united-kingdom', 'germany', 'france']
     renameCountries = {'united-states': 'USA', 'canada': 'CANADA', 'israel': 'ISRAEL', 'qatar': 'QATAR', 'turkey': 'TURKEY', 'saudi-arabia': 'SAUDIARABIA', 'united-arab-emirates': 'UAE', 'iraq': 'IRAQ', 'iran': 'IRAN', 'china': 'CHINA', 'india': 'INDIA', 'pakistan': 'PAKISTAN', 'japan': 'JAPAN', 'taiwan': 'TAIWAN', 'north-korea': 'NORTHKOREA', 'south-korea': 'SOUTHKOREA', 'australia': 'AUSTRALIA', 'russia': 'RUSSIA', 'united-kingdom': 'UK', 'germany': 'GERMANY', 'france': 'FRANCE'}
 
@@ -97,10 +96,3 @@ def aljazeera_extraction():
     
     writer.save()
     return overallDataset
-
-
-def temp():
-    articleLink = 'https://www.aljazeera.com/news/2023/3/5/at-cpac-forum-trump-shows-why-he-will-be-tough-to-topple'
-    articleScraper = ArticleScraper()
-    details = articleScraper.scrape(url=articleLink)
-    print(details)
