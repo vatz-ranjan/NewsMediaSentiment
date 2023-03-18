@@ -94,10 +94,3 @@ def cnn_extraction():
 
     writer.save()
     return overallDataset
-
-
-def temp():
-    articleLink = 'https://edition.cnn.com/2023/01/02/americas/mexico-prison-attack-juarez-intl'
-    articleScraper = ArticleScraper()
-    details = articleScraper.scrape(url=articleLink)
-    print(details)
