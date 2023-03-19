@@ -1,6 +1,6 @@
 # News Media Sentiment
 
-This project involves NLP concepts to drive sentimental opinion and scores of different News Media Sources such as CNN, Al Jazeera  for analyzing their opinions for different countries and continents at world level.
+This project involves NLP concepts to drive sentimental opinion and scores of different News Media Sources such as CNN, Al Jazeera  for analyzing their opinions for different countries and continents.
 
 ## Natural Language Processing
 Natural language processing (NLP) is a field of artificial intelligence in which computers analyze, understand, and derive meaning information from human language in a smart and useful way. By utilizing NLP, developers can organize and structure knowledge to perform tasks such as automatic summarization, translation, named entity recognition, relationship extraction, sentiment analysis, speech recognition, and topic segmentation.
