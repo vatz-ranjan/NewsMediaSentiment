@@ -33,6 +33,7 @@ Positive Score is the count of positive words used in the article.
 Negative Score is the count of negative words used in the article.
 
 Polarity Score defines the sentiment of a sentence whether it is positive, negative or neutral. It lies between [-1, 1], -1 defines a negative sentiment and 1 defines a positive sentiment.
+
 Subjectivity Score quantifies the amount of personal opinion and factual information contained in the text. The higher subjectivity means that the text contains personal opinion rather than factual information. Subjectivity lies between [0,1].
 
 ## News Media Houses
