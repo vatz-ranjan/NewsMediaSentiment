@@ -1,0 +1,19 @@
+Every year, the textile industry uses 1.3 trillion gallons of water to dye garments – enough to fill 2 million Olympic-sized swimming pools. Most of this water, loaded with harmful chemicals and dyes, flows untreated into rivers and streams.
+That’s why researchers at Khalifa University in Abu Dhabi, United Arab Emirates (UAE), have created a new nanomaterial that they say can clean up these dyes and other pollutants from industrial wastewater.
+The material consists of tiny sand-like grains, only visible to the naked-eye in clusters, which collect pollutants on their surfaces and in their pores, says Enas Nashef, project lead and a professor of chemical engineering at Khalifa University.
+The nanomaterial consists of a substance called a polymer that mimics the “glue” that mussels use to stick themselves to rocks, combined with a solvent. Finding the right solvent was a challenge, says Nashef, because most solvents are toxic, but the team identified one which is both effective and, crucially, eco-friendly.
+“If the thing you use will pollute the water, then what is the benefit?” he says.
+The team tested their nanomaterial on a red-orange dye called Alizarin Red S, and published their findings earlier this year.
+“So far, there are no toxic effects,” says Nashef, adding that the polymer can be cleaned of the pollutants and then reused.
+“We’re looking at the efficiency and also the environment at the same time,” he says.
+While the textile industry is one of the biggest contributors to industrial wastewater, it’s not alone: manufacturing, mining, petrochemicals, pharmaceuticals and agriculture all add to the problem.
+The United Nations estimates that globally, nearly 95 trillion gallons of wastewater are produced every year – roughly equivalent to 41 years of drinking water for the entire human population.
+A landmark report, published last month by the Global Commission on the Economics of Water (GCEW), found that just 20% of wastewater is currently treated, with far less being recycled, contributing to a global shortage of clean water. The report anticipates that demand for freshwater will outstrip supply by 40% by 2030.
+The textiles industry accounts for up to 20% of industrial wastewater globally – one of the reasons that Nashef and his team decided to focus their efforts on dyes.
+They targeted “anionic dyes,” because there are not many effective methods to remove these types of dye from water. Nashef’s hopes his high-efficiency material can make a dent in the sector’s dirty wastewater problem.
+“Right now, they can treat the (other) dyes, but with the anionic dye, they are facing problems,” says Nashef. “So they will need (this nanomaterial) to treat it.”
+Now that the mussel-inspired nanomaterial has shown promising results in the lab, Nashef is looking for industrial partners, to test it in the field.
+He also hopes to devise solutions for cleaning more than just textile dyes from water.
+Nashef is developing another nanomaterial that he says could remove viruses from hospital wastewater – an innovation that could help manage the spread of future pandemics.
+These water-cleaning polymers could also help to make desalination processes more sustainable – an important factor in the Middle East, where freshwater sources are scarce. Desalination plants consume a lot of energy to remove salt from water. Nashef says that using membrane-based nanomaterials in pre-treatment could cut the energy needed to clean the water. “If we can target that, it will reduce the load on the desalination plants,” Nashef adds.
+Ultimately Nashef hopes his work in his lab will have a real-world positive impact on water supplies – and “do something for the next generation.”

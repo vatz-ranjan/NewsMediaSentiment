@@ -1,0 +1,51 @@
+It has become common fare in United States political campaigns: advertisements that make sweeping claims of dystopia if the opposing candidate wins. Manipulated, underexposed images and cherry-picked headlines combine to build a crescendo of doom.
+But in the wake of Tuesday’s announcement that Democratic President Joe Biden will run for reelection, an official Republican Party video has stood out for one specific reason: It was generated completely using artificial intelligence (AI) images.
+The Republican National Committee’s embrace of the “transformative technology of our time” is not surprising given the rapid advancement and availability of AI products, said Darrell West, a senior fellow at the Center for Technology Innovation at the Brookings Institution.
+The Republican Party’s use of AI is an early sign of what is likely to come, he told Al Jazeera.
+“Three years ago, AI was not really being utilised in election campaigns. But the technologies advanced very rapidly. And now the technology is readily available,” he said. “You don’t have to be a software designer or a video editing expert to create very realistic-looking videos.”
+“It is uncharted territory,” he added. “We’ve gone beyond Photoshopping small parts of an image to basically generating a completely new image out of thin air. That will free people to create all sorts of videos and kind of project new realities that may not actually exist.”
+And so it begins – #generativeai being used to create misinformation and deepfake election campaign videos.
+The Republican National Committee just released an ad against Biden using AI created imagery. Before the pandemic I gave a talk about the dangers of deepfakes across… pic.twitter.com/7bw2yCn24Z
+— Theo (@tprstly) April 26, 2023
+
+For its part, the Republican National Committee was transparent about its use of AI, an umbrella term for systems that seek to mimic — and exceed — human cognitive skills, like learning, reasoning and creativity.
+In its YouTube description, the political group called the video “an AI-generated look into the country’s possible future if Joe Biden is re-elected in 2024”.
+
+
+
+
+
+The video itself also included a text saying “built entirely with AI imagery”. Realistic-looking images played as a fake newsreader announced Biden’s 2024 victory, followed by a litany of hypothetical disasters: China invading Taiwan, financial markets crashing, the southern border getting overrun and officials closing San Francisco, “citing the escalating crime and fentanyl crisis”.
+In many ways, the video does not represent much of a departure from the imagery and rhetoric common in US campaigns.
+As the Washington Post noted in 2020, “sharing doctored images of an electoral rival is a timeworn strategy of modern politic”. The newspaper reported that a “rapid acceleration” in fake imagery during former President Donald Trump’s term in office, “possibly because Trump has proved one of their most popular distributors”.
+
+
+
+
+
+Meanwhile, US courts have repeatedly upheld a wide interpretation of the right to make false or misleading campaign statements. Most recently an appeals court ruled in February that a North Carolina law banning campaign falsehoods was “likely unconstitutional”.
+Said West, the technology innovation fellow at the Brookings Institution, “Courts have regularly ruled that campaign speech is protected speech. In fact, candidates can knowingly say false things and still be allowed to say them.”
+Tom Wheeler, the chairman of the Federal Communications Commission under former President Barack Obama, put it another way in an interview with NPR last year: “Unfortunately, you’re allowed to lie.”
+AI, however, has the potential to supercharge those pre-existing campaign practices, West said, adding there are “virtually no checks on the use of this technology in a campaign setting”.
+“There’s no legal requirement to acknowledge you’re using an AI-generated image,” he said. “In this case, the RNC voluntarily revealed it … but in the future, there’ll be lots of organisations that will use it without informing voters.”
+
+
+
+
+
+So-called deepfakes — video or audio that falsely depict an individual saying or doing things — have prompted particular cause for concern, even as they remain on the political fringes so far.
+California and Texas passed laws before the 2020 general election, with the former allowing misrepresented candidates to sue deepfake makers, and the latter imposing criminal penalties for deepfakes.
+However, federal efforts to legislate the issue have seen little progress, facing questions over enforceability and pushback from digital rights groups, who have argued major tech platforms should provide oversight.
+Meanwhile, those seeking to influence campaigns “can really respond almost instantly” to the latest events, West said.
+“Basically, you ask the AI to generate images. You have them in a matter of seconds. So, we’re going to have rapid response ads: Something will happen and there could be an ad five minutes later.”
+“It will be a very fast-paced campaign with lots of claims and counterclaims happening minute by minute,” he said.
+Democrats have also reportedly embraced aspects of AI in campaigning, testing the technology to write first drafts of some fundraising messages, the New York Times reported in March.
+
+
+
+
+
+Citing three people with knowledge of the effort, the newspaper reported that messaging generated by AI and edited by humans at the Democratic National Committee performed “as well or better than copy drafted entirely by humans, in terms of generating engagement and donations”.
+The ability to quickly reach — and potentially misinform — specific voter segments is particularly significant in the 2024 presidential polls, which will likely come down to “one or two percent of voters”, according to West.
+“It is a Wild West moment where it’s gonna be impossible for voters to distinguish the real from the fake,” he said.
+“Things are going to be coming at them from every direction, and there’s the risk of widespread confusion,” he said. “And that can lead to bad decisions.”

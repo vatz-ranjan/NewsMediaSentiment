@@ -1,0 +1,35 @@
+Adelaide, Australia – Since the 1980s, inventors have been promising to turn the flying cars of Back to the Future and The Jetsons into reality.
+Companies including Toyota, AirBus, Hyundai, and Kitty Hawk, a project backed by Google co-founder Larry Page, are still racing to develop the first commercially viable Vertical Take-Off and Landing (VTOL) vehicle – and cash in on an embryonic industry that Morgan Stanley predicts will be worth a trillion dollars by 2040.
+To date, not one of these companies has sold a flying car.
+Now, a little-known VTOL aircraft maker from Australia is attempting to crack the problem by adopting a strategy used by many of the world’s earliest carmakers.
+Next year, Alauda Aeronautics, based in Adelaide, plans to introduce the world’s first crewed flying car race in the Australian desert: a high-stakes series called Airspeeder that has been billed as the Formula One of the skies.
+“The reason I think everyone has failed until now is that they’ve bitten off more than what they can chew,” Matt Pearson, an internet entrepreneur who founded Alauda in 2016, told Al Jazeera.
+“They’re trying to invent new vehicles, get them into production, change the regulatory environment and then start operating commercial passenger services. Just doing one of those things is hard. Trying to do all of them in one step has not proved possible yet.”
+Pearson’s mission is inspired by history, particularly the period between 1886, when Daimler Benz invented the first car, and 1925, when Henry Ford brought the cost of a Model-T down to about four months’ wages for an average American worker through mass production using conveyor belts.
+“What happened in those years in between?” Pearson said. “Car makers didn’t focus on ride-sharing. They focused on racing. Henry Ford, Marcel Renault, Rolls Royce, even Tesla. They all started in motorsports.”
+Alauda has developed 11 autonomous electric-powered VTOL aircraft in the past six years, and earlier this year unveiled its first crewed version, the Mk4.
+Powered by a hydrogen-cell electric turbo engine that delivers 1,300 horsepower, it is billed as the fastest VTOL aircraft ever built, capable of reaching speeds of 360 kilometres per hour (223 miles per hour) within 30 seconds.
+Starting next year, the model is set to be used in Airspeeder team races that will be broadcast globally by Fox Sports Australia.
+“Right now, the Mk4 costs millions of dollars each,” Pearson said “But we don’t see why eventually they can’t be the same price as a Tesla. The expensive thing is not making them. It’s the engineering.”
+Sonya Brown, an aerospace design expert at the University of New South Wales, said Alauda’s business model has merit.
+“If we look at Formula One, a lot of technology that came from there has found its way into passenger vehicles,” Brown told Al Jazeera.
+“But I would not say it is not better than other strategies like air taxis that are being explored by big companies, or air ambulances that are interesting to governments. The key thing is that the problem is being approached in different ways and that shows how much impact this technology could have in the future.”
+Ride-hailing giant Uber pioneered the air-taxi concept in 2017 with the launch of Elevate, a joint venture with Bell Helicopters that aimed to create a network of flying taxis accessible via smartphone.
+“It’s an exciting opportunity,” Bell Helicopter chief executive Mitch Snyder said at the time, promising to launch flying taxis in Los Angeles by 2023.
+Germany’s Volocopter made an even more ambitious promise in 2017 after the maiden test flight of an autonomous two-seat electric-powered VTOL aircraft in Dubai that the company said would begin services in the city by 2022.
+The promise was repeated in Dubai again last month when Prime Minister of the United Arab Emirates Sheikh Mohammed bin Rashid Al Maktoum announced via Twitter that the world’s first flying taxi service would be up and running in the city by 2026.
+“We’re excited about the opportunity and actively exploring the possibility,” Oliver Walker-Jones, a spokesman for Joby Aviation, one of three VTOL aircraft makers now working with Dubai’s Road Transport Authority on the plan, said in a statement. Volocopter is not among the partners.
+Last month, former US President Donald Trump called for massive investment in VTOL aircraft as part of his “Quantum Leap” proposals to improve living standards in the US.
+Alauda has been racing VTOL aircraft in the South Australian desert for two years already. Until now, though, the races have attracted scant attention as the vehicles have been flown remotely by pilots on the ground, much like drones.
+The Mk4 is aiming to take racing to the next level by putting pilots in the cockpit, opening up new sponsorship and media opportunities that Alauda’s Pearson is banking on to drive innovation in flying cars.
+Putting human-piloted flying vehicles in the air, however, raises a host of safety and other practical concerns, according to experts.
+“For this technology to reach its full potential, we need hundreds flying in the air at the same time and that creates a whole bunch of risks with the potential for air collisions and breakdowns,” said Brown, the aerospace design expert at the University of New South Wales.
+“If a car breaks down, it is unlikely to cause an accident, but a breakdown in the air has a lot more implications. That demands significantly more automation and it will also require some kind of traffic control as well as air corridors. And as we can’t put traffic signals in the sky, VTOLs will need very good collision-avoidance systems.”
+Andrew Morris, an expert in transport safety at Loughborough University in the United Kingdom, concurs.
+“There’s nothing wrong with using motorsports to drive innovation. But motorsports like Formula One are tightly regulated and safety considerations are foremost. It works only because everyone in Formula One abides by it,” Morris told Al Jazeera.
+“There will also need to be very tight regulation as to who can pilot flying cars and where they can fly to and from, and even with air corridors to separate flying cars, how do you enforce it with novice, reckless and risk-taking drivers? If you look at how some people use jet skis, you get a sense of the possible outcomes.”
+Morris said an effective “free-for-all”, such as that exists with regular cars today, could be potentially disastrous.
+“Imagine people being free to buy a flying car in the morning and then take it up in the sky that afternoon,” he said. “The consequences would be catastrophic and this could effectively stop the industry in its tracks.”
+Pearson, who exudes the indefatigable energy of an entrepreneur on the cusp of greatness, is not phased by such concerns.
+“Humans are pretty good at driving in between lines, whether on the ground or sky, it won’t make much difference,” he said. “We already have instruments on the screens of our flying cars that show the pilot where the race track is.
+“That’s why racing in a controlled environment is such a good way to develop these features,” he added. “It’s very exciting.”

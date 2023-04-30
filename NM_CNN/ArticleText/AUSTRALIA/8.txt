@@ -1,0 +1,11 @@
+Digital payments and lending firm Latitude Holdings said on Monday that 7.9 million Australian and New Zealand driver license numbers were stolen in a large-scale information theft on March 16.
+Apart from the driver licence numbers stolen, the Australian fintech firm also identified about 53,000 passport numbers were stolen, and fewer than 100 customers had a monthly financial statement stolen.
+A further 6.1 million records dating back to at least 2005 were also stolen, the Melbourne-based company said, adding that customers who choose to replace their stolen ID document will be reimbursed.
+“We are rectifying platforms impacted in the attack and have implemented additional security monitoring as we return to operations in the coming days,” said CEO Ahmed Fahour in a statement.
+Latitude’s stock fell 2.5% to 1.18 Australian dollars (about $0.78), with shares having dropped by about 2.1% since the company reported the incident on March 16.
+“Whenever investors hear of a ‘data breach,’ they tend to assume the worst … it seems much of the doom and gloom was priced in two weeks ago when news of the cyberattack first broke,” said Matt Simpson, senior market analyst at City Index.
+The current level does not make it a strong buy, but “investors clearly saw 1 Australian dollar as a decent level for a punt,” he added.
+The firm, which provides consumer finance services to major Australian retailers Harvey Norman and JB Hi-Fi, alerted last week that it had unearthed further evidence of information theft.
+Several Australian firms have reported cyberattacks over the past few months, and experts say this is due to an understaffed cybersecurity industry in the country.
+Last year, some of Australia’s largest companies reported data breaches, prompting authorities to step up efforts to bolster cybersecurity and implement stricter data-sharing rules to prevent breaches in the future.
+Earlier this month, Latitude took its platform offline and said the Australian Federal Police and the Australian Cyber Security Centre were looking into the attack.

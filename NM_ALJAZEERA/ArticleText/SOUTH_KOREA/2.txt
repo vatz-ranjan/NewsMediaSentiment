@@ -1,0 +1,41 @@
+Seoul, South Korea – The news that Saint Von Colucci, a 22-year-old Canadian-Portuguese actor, singer, and songwriter with pull in South Korea’s entertainment scene, died after undergoing surgeries to look like a K-pop star set media abuzz.
+Von Colucci was reported to have undergone 12 plastic surgeries, costing more than $200,000, to resemble BTS member Jimin and overcome discrimination “against his Western traits”. He was said to have recently secured a role in an upcoming Korean drama.
+The only problem is that Von Colucci may have never existed.
+A raft of evidence suggests he is the product of an elaborate hoax using artificial intelligence that fooled dozens of media outlets, stretching from the United States and Canada to the United Kingdom, South Korea, India, Malaysia and the Philippines.
+The debacle appears to be the first known case of AI being used to trick media outlets en masse into spreading misinformation, heralding the dawn of a new era of computer-generated fake news.
+“Mis- and disinformation generated with the help of AI tools are certainly a reason for concern inasmuch as they will make the life of fact-checkers and journalists more difficult,” Felix M Simon, a journalist and doctoral student at the Oxford Internet Institute, told Al Jazeera.
+The saga began earlier this week when journalists around the world received a press release announcing that Von Colucci had passed away at a hospital in Seoul on April 23.
+The press release, which was written in clumsily-worded English, purported to be from a public relations agency called HYPE Public Relations.
+The press release contained numerous red flags, however.
+Many web links in the document would not load, including a link to Von Colucci’s supposed Instagram account, and the hospital mentioned in the press release does not exist.
+HYPE’s website, which listed WeWork offices in London and Toronto as headquarters, appears to be unfinished and was registered only a few weeks before Von Colucci’s reported death.
+When Al Jazeera attempted to call HYPE via the number listed, no one answered. Al Jazeera was later sent a text message from the number saying, “Wtf do u want.”
+Apart from the press release, there is little evidence that Von Colucci is a real person.
+Despite being described as a songwriter for a number of K-pop stars, Von Colucci did not have a significant online presence and no one has come forward to publicly mourn his death.
+The online footprint that does exist raises more questions.
+Photos of Von Colucci online are blurry and contain strange features, including deformed hands in at least one case – a tell-tale sign of the use of AI.
+
+
+
+A post shared by @papaxxzy
+
+AI-generated image detection software, while having limitations, indicates that some of the photos have a high possibility of being produced or edited using AI software. Al Jazeera could not independently verify the authenticity of the images.
+Von Colucci’s claimed music repertoire, including the album “T1K T0K H1GH SCH00L”, is not available on any mainstream music streaming service.
+In a press release circulated last year, Von Colucci was described as “the second son of Geovani Lamas, the CEO of IBG Capital, Europe’s top hedge fund company”.
+Geovani Lamas does not have any official presence online, while the top search result for IBG Capital is an investment firm located in the US state of Arizona.
+In a further twist, the K-pop star wannabe’s Instagram page was reactivated this week, with one comment edited two days after his reported death. The comment has since been deleted.
+The litany of red flags did not deter media outlets from rushing to cover Von Colucci’s bizarre demise, including sensational before-and-after surgery photos that appeared to show his transformation from a white man into a person with East Asian features.
+After Daily Mail Online reported the story, it was quickly picked up by media outlets worldwide.
+Daily Mail Online quietly took down its article on Wednesday without any explanation or retraction notice.
+The story remains on the websites of dozens of other outlets, including The Independent in the UK, the Hindustan Times in India, the Malay Mail in Malaysia and Newsis in South Korea.
+The Canadian embassy in Seoul declined to comment when contacted by Al Jazeera.
+South Korean media have reported that police have not received a case report involving a Canadian actor who died due to plastic surgery complications.
+The apparent hoax is a stark reminder of the potential of AI, which is still in its infancy, to blur truth and fiction, especially as plummeting media revenues and headcounts raise existential questions about the future of professional journalists and news.
+Platforms like ChatGPT, which can write entire articles in a human-like voice, already allow anyone to create convincing news stories that have the potential to be used for political manipulation and spreading conspiracy theories with just a few clicks.
+AI can also already be used for “deep fakes” that manipulate videos and images of real people, creating opportunities for bad actors to disrupt elections, damage reputations, create revenge porn, and even incite violence.
+AI-generated content has been blamed for misleading people in large numbers before.
+Manipulated photos of Pope Francis wearing a white puffer jacket and former US President Donald Trump being arrested recently went viral on social media.
+But the case of Von Colucci appears to be the first example of journalists being duped on a large scale, exposing deficiencies in editorial standards and basic fact-checking.
+Still, Simon, of the Oxford Internet Institute, expressed optimism that AI-generated fake news would not have a catastrophic effect on the public discourse.
+“The main issue with mis- and disinformation is the demand for it – which is limited – and the ability to reach people by getting it into the mainstream – which is difficult. The ability to generate more and/or better-quality mis- and disinformation is unlikely to change this,” he said.
+“In addition, we have fairly decent mechanisms of epistemic vigilance – eg assessing the context, the source, checking information against previous information – which will likely adapt and work against new forms or attempts to deceive us.”

@@ -1,0 +1,15 @@
+In the five months since its launch, ChatGPT has been used to generate student essays, write wedding vows, and compose rousing sermons for pastors and rabbis.
+Now, a Japanese city is turning to the AI chatbot for something else: helping to run the government.
+Yokosuka City, in Japan’s central Kanagawa prefecture, announced this week that it will begin using ChatGPT to help with administrative tasks. A news release on the municipal government’s website said all employees could use the chatbot to “summarize sentences, check spelling errors, and create ideas.”
+A spokesperson from the municipal government told CNN the nationwide population crisis was a factor they considered when implementing the use of ChatGPT.
+Aging Japan’s population has been rapidly falling for years, with the country’s leader warning recently that “time is running out to procreate,” and that Japan is “on the brink of not being able to maintain social functions.”
+Yokosuka is no exception. The city’s population of 376,171 is expected to keep shrinking, the natural causes exacerbated by the departure of major manufacturers and insufficient tourism, according to the government site.
+In the face of these population problems, the city turned to ChatGPT to enhance efficiency and establish a better workflow within government operations, said the spokesperson.
+With ChatGPT handling rote administrative tasks, “staff can focus on work that can only be done by people, pushing forward an approach that brings happiness for our citizens,” said the news release.
+It added that the government anticipates the tool will be “used widely among our staff.” No confidential or personal information will be entered into ChatGPT, it said.
+But not every government has been as welcoming to ChatGPT.
+There have been widespread data privacy concerns, prompting Italian regulators to issue a temporary ban on the chatbot last month as they investigate how its parent company uses data.
+Some big companies, including JPMorgan Chase, have clamped down on employees’ use of ChatGPT due to compliance concerns related to employees’ use of third-party software.
+The scramble by rival tech companies to develop their own AI tools has also highlighted the ways AI can spit out racist, sexist and harmful content.
+But at least in Yokosuka, government leaders are focusing on the positive – with the news release saying it has high expectations for the roll-out.
+At the bottom of the document, a single line read: “This release was drafted by ChatGPT and proofread by our staff.”
