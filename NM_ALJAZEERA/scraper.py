@@ -2,11 +2,6 @@ import os
 from copy import deepcopy
 from bs4 import BeautifulSoup
 import urllib.request, urllib.parse, urllib.error
-from selenium import webdriver
-from selenium.webdriver import Keys
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 from time import sleep
 from items import extractionDetailsStruct
 
@@ -20,18 +15,6 @@ class LinkScraper:
     
     def __scrape_links(self):
         url = self.__baseUrl + self.__countryName
-        # driver = webdriver.Chrome(self.__driverPath)
-        # driver.get(url)
-        # try:
-        #     WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CLASS_NAME, 'ot-sdk-container')))
-        #     cookiesSection = driver.find_element(by=By.CLASS_NAME, value='ot-sdk-container')
-        #     acceptCookies = cookiesSection.find_element(by=By.ID, value='onetrust-accept-btn-handler')
-        #     acceptCookies.click()
-        # except Exception as e:
-        #     print(e)
-        # sleep(5)
-        # driver.find_element(by=By.CLASS_NAME, value='show-more-button big-margin')
-        # soup = BeautifulSoup(driver.page_source, features='html.parser')
         req = urllib.request.urlopen(url).read().decode()
         soup = BeautifulSoup(req, features='lxml')
         firstMainMaterial = soup.find('main', attrs={'id': 'featured-news-container'})
