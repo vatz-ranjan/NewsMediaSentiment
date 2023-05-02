@@ -38,10 +38,15 @@ Subjectivity Score quantifies the amount of personal opinion and factual informa
 
 ## News Media Houses
 
-### CNN
-
-CNN (Cable News Network) is a multinational news channel and website headquartered in Atlanta, Georgia, U.S. Founded in 1980 by American media proprietor Ted Turner and Reese Schonfeld as a 24-hour cable news channel, and presently owned by the Manhattan-based media conglomerate Warner Bros. Discovery (WBD), CNN was the first television channel to provide 24-hour news coverage and the first all-news television channel in the United States.
-
 ### Al Jazeera
 
 Al Jazeera English is an international 24-hour English-language news channel owned by the Al Jazeera Media Network, which is owned by the monarchy government of Qatar. It is the first English-language news channel to be headquartered in the Middle East. Instead of being run centrally, news management rotates between broadcasting centres in Doha and London.
+
+### BBC
+The British Broadcasting Corporation (BBC) is the national broadcaster of the United Kingdom, based at Broadcasting House in London, England. It is the world's oldest national broadcaster, and the largest broadcaster in the world by number of employees, employing over 21,000 staff in total, of whom approximately 17,900 are in public-sector broadcasting.
+
+The BBC is established under a royal charter and operates under its agreement with the Secretary of State for Culture, Media and Sport.
+
+### CNN
+
+CNN (Cable News Network) is a multinational news channel and website headquartered in Atlanta, Georgia, U.S. Founded in 1980 by American media proprietor Ted Turner and Reese Schonfeld as a 24-hour cable news channel, and presently owned by the Manhattan-based media conglomerate Warner Bros. Discovery (WBD), CNN was the first television channel to provide 24-hour news coverage and the first all-news television channel in the United States.
